@@ -3,6 +3,10 @@ Positioning website
 
 * This page is designed for the portfolio of a Model or renowed actor.
 
+<h1 text-align="center">Hi this is img of my website</h1>
+
+![image](https://user-images.githubusercontent.com/109961309/210373943-73ab35f1-7dd9-4f27-a5ce-a02899d1f83f.png)
+
 >HtML
 
 * In the index.html file is structured into different parts .
